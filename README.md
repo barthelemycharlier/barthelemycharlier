@@ -21,9 +21,9 @@ Right now, I'm looking for a 6-month research internship starting spring to cont
 <br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barthelemycharlier&theme=dracula" alt="Profile Details">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barthelemycharlier&theme=dracula" alt="Repos Per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barthelemycharlier&theme=dracula" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barthelemycharlier" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barthelemycharlier "alt="Repos Per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=barthelemycharlier"alt="Most Commit Language">
 </p>
 
 <br>
