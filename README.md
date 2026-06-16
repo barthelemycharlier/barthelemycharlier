@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Barth</h1>
-<h3 align="center">Engineering student in Data Science & M2 AI (IASD) at PSL 🎓</h3>
+<h3 align="center">Engineering student in Data & AI & M2 AI (IASD) at PSL 🎓</h3>
 
 <p align="center">
-I'm a research-minded engineering student with a strong interest in machine learning, applied maths, and building reliable, well-engineered systems.  
+I'm a engineering student with a strong interest in machine learning, applied maths, and building reliable, well-engineered systems.  
 I enjoy the mix of theory and practice — understanding how methods work while turning them into tools that solve real problems.
 <br><br>
-I've worked on forecasting, multimodal ML, time-series modeling, and full-stack development, through roles in industry, research projects, and freelance work.  
-Right now, I'm looking for a 6-month research internship starting spring to contribute to impactful technologies.
+I've worked on forecasting, multimodal ML, time-series modeling, and full-stack development, through roles in industry and research.  
 </p>
 
 <p align="center"> 📫 Reach me at: <b>barthelemy.charlier@gmail.com</b> 📫</p>
